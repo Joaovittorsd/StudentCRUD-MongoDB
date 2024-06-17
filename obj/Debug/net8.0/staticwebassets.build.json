@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "rMU41n2r6jpUXTWDzgfItd8xgRUrRumMVCPNalbCaWA=",
+  "Source": "CRUD_With_MongoDb",
+  "BasePath": "_content/CRUD_With_MongoDb",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
