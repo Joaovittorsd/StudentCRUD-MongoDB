@@ -43,3 +43,4 @@ D:\projetos-vitor\C#\CRUD_With_MongoDb\obj\Debug\net8.0\refint\CRUD_With_MongoDb
 D:\projetos-vitor\C#\CRUD_With_MongoDb\obj\Debug\net8.0\CRUD_With_MongoDb.pdb
 D:\projetos-vitor\C#\CRUD_With_MongoDb\obj\Debug\net8.0\CRUD_With_MongoDb.genruntimeconfig.cache
 D:\projetos-vitor\C#\CRUD_With_MongoDb\obj\Debug\net8.0\ref\CRUD_With_MongoDb.dll
+D:\projetos-vitor\C#\CRUD_With_MongoDb\obj\Debug\net8.0\CRUD_With_MongoDb.sourcelink.json

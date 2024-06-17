@@ -24,7 +24,7 @@ public class StudentController : ControllerBase
         }
 
         var id = await _studentRepository.Create(student);
-        return CreatedAtAction(nameof(Get), new { id }, student);
+        return Ok(id.ToString());
     }
 
     [HttpGet("{id}")]
